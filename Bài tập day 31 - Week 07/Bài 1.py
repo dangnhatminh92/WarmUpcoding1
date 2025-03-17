@@ -36,5 +36,3 @@ plt.ylabel("f(x)")
 plt.legend()
 plt.grid()
 plt.show()
-
-
