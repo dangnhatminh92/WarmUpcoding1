@@ -19,3 +19,14 @@ Kết quả câu 9: Tính tổng doanh số của từng nhân viên.
 9             10     1500.00
 
 Kết quả câu 10: Tìm nhân viên có doanh số cao nhất.
+
+Kết quả Câu 11: Cập nhật tổng giá trị đơn hàng có OrderID = 2 thành 4.500.000
+   OrderID  CustomerID  SalespersonID   OrderDate  TotalAmount
+0        2           2              2  2024-01-11    4500000.0
+
+Kết quả câu 12: Cập nhật số điện thoại của khách hàng có CustomerID = 3
+   CustomerID   FullName              Email        Phone
+0           3  Bui Van M  m.bui@example.com  09003456789
+
+Kết quả Câu 13: Xóa tất cả các đơn hàng của khách hàng có CustomerID = 2
+[]

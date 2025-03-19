@@ -17,7 +17,7 @@ GROUP BY CustomerID
 ORDER BY TotalOrders DESC
 LIMIT 1;
 """
-query02 = pd.read_sql_query(query, connection)
+query02 = pd.read_sql_query(query02, connection)
 print(query02)
 
 
